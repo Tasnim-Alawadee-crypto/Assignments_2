@@ -1,6 +1,6 @@
 # Assignments Repository
 
-Name: Tasnimo Al  
+Name: Tasnimo Al-Awadee
 Department: Artificial Intelligence
 
 Course: Data Structure  
